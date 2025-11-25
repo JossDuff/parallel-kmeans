@@ -1,0 +1,5 @@
+*.o
+obj
+/prime
+/kmeans
+/test-kmeans

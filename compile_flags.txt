@@ -1,0 +1,4 @@
+-std=c++11
+-I./oneapi-tbb-2022.2.0/include
+-I./include
+-I./include/prime
